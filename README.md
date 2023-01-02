@@ -9,7 +9,7 @@
   <li>Locate the "install.ps" file in the Repository.</li>
   <li>Right click the "install.ps" file and then click the run with PowerShell option.</li>
   <li>PowerShell will ask for Administration Permission.</li>
-  <li>Then Syetem will ask for Developer Permission if not Enabled.</li>
+  <li>Then System will ask for Developer Permission if not Enabled.</li>
   <li>Then it will go on to Install the Application.</li>
   <li>You can find the Application if you search it in the Windows Bar.</li>
 </ul>
